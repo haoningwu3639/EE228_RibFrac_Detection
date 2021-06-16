@@ -30,7 +30,7 @@ Code tested on following environments, other version should also work:
 # Results 
  You can download our pretrained model and prediction results at [`pretrained_model`](pretrained_model) and [`results`](results). Our FROC can reach 0.5923 on test set and 0.3213 on validation set. We hope we can do better in the future. 
 
-# Referneces
+# References
  If you gonna learn more about Rib Fracture Detection, we recommend these repositories for you:  [FracNet](https://github.com/M3DV/FracNet), [3DUNet-Pytorch](https://github.com/lee-zq/3DUNet-Pytorch), [3DUnetCNN](https://github.com/ellisdg/3DUnetCNN).
 
 # Miscs
